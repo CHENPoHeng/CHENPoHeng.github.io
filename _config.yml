@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "CPH"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "CHEN, Po-Heng"
+description              : "To memorize those transient stories."
+url                      : "https://CHENPoHeng.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "CHENPoHeng/CHENPoHeng.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -61,22 +61,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "CHEN,Po-Heng"
+  avatar           : "profile201606.JPG"
+  bio              : ""
+  location         : "Ann Arbor, MI"
+  email            : "PoHeng.Chen@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "henry.chen.12382"
   foursquare       :
-  github           :
+  github           : "CHENPoHeng"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "pohengchen"
   lastfm           :
   linkedin         :
   pinterest        :
